@@ -1,2 +1,0 @@
-# Vectorsloth
-Smartninja projects
